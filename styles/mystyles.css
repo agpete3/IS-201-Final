@@ -1,0 +1,15 @@
+.myfont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+.mysubfont{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke !important;
+    font-size: xx-large !important;
+}
+.myimg{
+    width: 70% !important;
+}
+.myitalics{
+    font-style: italic;
+}
